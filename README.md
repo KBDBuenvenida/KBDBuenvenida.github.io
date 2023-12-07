@@ -41,10 +41,10 @@
     <button class="btn"><a href="https://github.com/KBDBuenvenida/HOA4" target="_blank"><i></i>HOA4</a></button>
 
     <button class="btn"><a href="https://github.com/KBDBuenvenida/Buenvenida_HOA5" target="_blank">HOA5</a></button>
-
-    <button class="btn"><a href="https://github.com/KBDBuenvenida/Buenvenida_PrelimExam" target="_blank">Prelim Exam</a></button>
     
     <button class="btn"><a href="https://github.com/KBDBuenvenida/Buenvenida_HOA6" target="_blank">HOA6</a></button>
+
+    <button class="btn"><a href="https://github.com/KBDBuenvenida/Buenvenida_PrelimExam" target="_blank">Prelim Exam</a></button>
     
     <button class="btn"><a href="https://github.com/KBDBuenvenida/Buenvenida_HOA7" target="_blank">HOA7</a></button>
     
