@@ -22,7 +22,7 @@
   <div class="intro">
     <div class="text-intro">
       <h2>Ken Benedict D. Buenvenida </h2>
-      <h2>Status : Online</h2>
+      <h2>Status : Pogi</h2>
     </div>
     <div class="image-intro"> <img src="https://cdn.discordapp.com/attachments/427044370227789825/1182304869974024192/test.jpg?ex=65843637&is=6571c137&hm=1b73066c7452f1c638cec8fe73cd407066793ca3b8b80bef370ceea68368179a&" alt="It's Me!">
     </div>
