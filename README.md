@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -24,7 +23,6 @@
     <div class="text-intro">
       <h2>Ken Benedict D. Buenvenida </h2>
       <h2>Status : Online</h2>
-    </div>
     </div>
   </div>
   <section>
